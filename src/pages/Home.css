@@ -1,0 +1,11 @@
+.home {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+.ion-list {
+  width: 50vw;
+  margin-left: 15vw;
+}
